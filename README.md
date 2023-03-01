@@ -22,4 +22,8 @@ Como tambien el indice para extraer los indices por empresa como alguna otra inf
 * **POWER BI** - Dashboards referentes al analisis exploratorio del indice S&P500 y recomendaciones de inversion.
 * **requirements.txt** - librerias.
 
-
+### **Herramientas utilizadas**
+-   **[Python](https://www.python.org/)**: lenguaje de programación utilizado, que brinda acceso a librerías apropiadas para realizar la tarea encomendada de manera eficaz y eficiente.
+-   **[Pandas](https://pandas.pydata.org/):** librería que nos permite el acceso a los archivos csv provistos, su conversión en dataframes, la transformación de los datos y la posterior exportación de los mismos en un único archivo, el cual luego será utilizado por la API para disponibilizar los datos.
+-   **[Pandasql](https://pypi.org/project/pandasql/):** librería que nos permite efectuar consultas con lenguaje SQL sobre Dataframes de Pandas.
+-   **[Power BI]([https://www.python.org/](https://powerbi.microsoft.com/es-es/))**: Power BI es una plataforma unificada y escalable de inteligencia empresarial (BI) con funciones de autoservicio apta para grandes empresas. Conéctese a los datos, visualícelos e incorpore sin problemas objetos visuales en las aplicaciones que usa todos los días.
